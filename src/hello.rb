@@ -6,7 +6,6 @@ a = [1, 2, 3]
 a << 4
 #binding.pry     # execution will pause here, allowing you to inspect all objects
 puts a
-
 puts "Hello world!"
 
 #Ruby documentation --> https://ruby-doc.org/core-2.7.1/
@@ -24,6 +23,7 @@ forty_two = 42
 # Defining a method
 def this_is_a_great_method
   # do stuff
+  puts "Hello world from a method"
 end
 
 # Multi-line
@@ -40,3 +40,5 @@ end
 
 class MySecondClass
 end
+
+this_is_a_great_method

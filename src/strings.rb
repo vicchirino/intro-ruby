@@ -17,7 +17,6 @@
 
 "hello"[-1]     #=> "o"
 
-
 # Escape characters --> only work inside double quotation marks. ""
 
 # without the # at the begining.

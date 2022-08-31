@@ -5,9 +5,7 @@
 
 {:dog => 'barks', :cat => 'meows', :pig => 'oinks'}
 
-
 {:dog => 'barks', :cat => 'meows', :pig => 'oinks'}[:cat] # --> "meows"
-
 
 movies = { :jaws => 1975,
            :anchorman => 2004,

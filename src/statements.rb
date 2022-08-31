@@ -9,13 +9,11 @@ end
 
 puts "Hot diggity damn, 1 is less than 2" if 1 < 2
 
-
 if attack_by_land == true
   puts "release the goat"
 else
   puts "release the shark"
 end
-
 
 if attack_by_land == true
   puts "release the goat"
@@ -24,7 +22,6 @@ elsif attack_by_sea == true
 else
   puts "release Kevin the octopus"
 end
-
 
 grade = 'F'
 
@@ -39,7 +36,6 @@ else
   puts "McDonald's is hiring!"
   fml = true
 end
-
 
 age = 18
 response = age < 17 ? "You still have your entire life ahead of you." : "You're all grown up."
